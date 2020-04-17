@@ -1,5 +1,5 @@
 # Youtube-crawling-analysis-and-prediction-model-2
-: Based on 'Youtube-crawling-analysis-and-prediction-model 1' repository, added image factor for prediction and classification 
+: Based on 'Youtube-crawling-analysis-and-prediction-model 1' repository, added 'thumbnail image' factor for prediction and classification 
 
 
 ### Project objective :
