@@ -1,4 +1,5 @@
-# Classification model using both images and text data. 
+# Classification model using both and text data. 
+Project objective
 : For classifying categories which video's are actually in, used both 'thumbnail images' and 'video text names' 
 
 
