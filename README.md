@@ -1,4 +1,4 @@
-# :bulb: Youtube video category classification model using both image data and text data. 
+# :bulb: Youtube video category classification model 
 
 ### :dart: Objectives
 - For classifying youtube video's category using both 'thumbnail image' and 'video name' 
